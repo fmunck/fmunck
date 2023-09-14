@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2><img src="https://i.imgur.com/Cy46agz.png" width="80"><b> Hi, I'm Flavio Munck!</b></h2>
+<hr>
 
-<!--
-**j3ky1l/j3ky1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> 🏴󠁣󠁬󠁡󠁩󠁿 </p>
+<p> 🎮 </>
+<p> ♟️ “There is no wealth like knowledge, no poverty like ignorance.” — Buddha </p>
 
-Here are some ideas to get you started:
+<p>languages and tools:</p>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
